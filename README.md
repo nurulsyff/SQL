@@ -1,1 +1,4 @@
 # SQL
+
+In this mini-project of the Data Analysis part, I will show you how to work with multiple tables, use Common Table Expression (CTE), and Windows Function using SQL. Join clause combines data from two or more tables based on specific columns with the same column. CTE (Common Table Expression) is a query syntax in SQL in the form of a subquery written separately to be reused. I use CTE in this mini project because the advantage is that the temporary table from the CTE can be used several times. The window function is a clause in SQL that performs aggregation without using the "group by" clause. If we use the group by function, a key column has distinct values while the others are aggregations. Nevertheless, with the window function, there is no distinct value. The data I used in this mini project is world.sql that is available in this repository.
+
